@@ -15,7 +15,7 @@ function modal() {
             console.log("The animation was called");
         },
         afterClose: function() {
-            console.log("The animation is completed");
+            console.log("The aanimation is completed");
         }
     });
 }
